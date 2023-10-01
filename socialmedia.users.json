@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65156badeb05201ecb6cdbfb"
+  },
+  "name": "Azreena",
+  "userId": "az__na",
+  "feed": [
+    {
+      "profile_photo": "../images/profile-11.jpg",
+      "profile_name": "KEERTI",
+      "post": "../images/feed-2.jpg",
+      "location": "Karnataka , 45 MIN AGO",
+      "liked_by": "Azeem",
+      "total_comment": 123,
+      "total_likes": 56,
+      "liked_profile": [
+        "../images/profile-12.jpg",
+        "../images/profile-15.jpg",
+        "../images/profile-14.jpg"
+      ],
+      "hashtag": "travel"
+    },
+    {
+      "profile_photo": "../images/profile-11.jpg",
+      "profile_name": "KEERTI",
+      "post": "../images/feed-2.jpg",
+      "location": "Karnataka , 45 MIN AGO",
+      "liked_by": "Azeem",
+      "total_comment": 103,
+      "total_likes": 54,
+      "liked_profile": [
+        "../images/profile-12.jpg",
+        "../images/profile-15.jpg",
+        "../images/profile-14.jpg"
+      ],
+      "hashtag": "travel"
+    }
+  ],
+  "message": [
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    },
+    {
+      "photo": "../images/profile-11.jpg",
+      "name": "Azaad",
+      "text": "Hey whatsapp",
+      "active": "active",
+      "bold": "text-bold"
+    }
+  ]
+}]
