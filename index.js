@@ -6,7 +6,7 @@ app.set('view engine', 'ejs');
 app.use(body.urlencoded({extended:true}))
 app.use(express.static("public"))
 
-mongoose.connect("mongodb://127.0.0.1:27017/socialmedia",{useNewUrlParser:true})
+mongoose.connect("mongodb+srv://azreena0610:BbSeZ67vMnNm2VsC@cluster0.gbczuva.mongodb.net/socialmedia",{useNewUrlParser:true})
 
 //schema
 const todoschema=new mongoose.Schema({
